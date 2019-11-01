@@ -1,0 +1,161 @@
+Mono path[0] = 'C:/Users/Mike/Documents/MyGame/mygame_Data/Managed'
+Mono config path = 'C:/Users/Mike/Documents/MyGame/mygame_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Mike/Documents/MyGame/mygame_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55367
+Multi-casting "[IP] 0.0.0.0 [Port] 55367 [Flags] 2 [Guid] 2184376955 [EditorId] 4294967295 [Version] 1048832 [Id] WindowsPlayer(Mike-Desktop) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55367]
+PlayerConnection already initialized - listening to [0.0.0.0:55367]
+Player data archive not found at `C:/Users/Mike/Documents/MyGame/mygame_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Ti (ID=0x1e04)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.21.14.3630
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Mike\Documents\MyGame\mygame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.054 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Mike\Documents\MyGame;C:\Users\Mike\Documents\MyGame;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Mike'
+OS-Version: 10.0.18362 () 0x300-0x1
+C:\Users\Mike\Documents\MyGame\mygame.exe:mygame.exe (00880000), size: 24039424 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Mike\Documents\MyGame\mygame.exe', fileVersion: 2017.1.0.9747
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77050000), size: 1679360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (75C50000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 10.0.18362.329
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (75470000), size: 2080768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (6EA60000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\apphelp.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\USER32.dll:USER32.dll (74860000), size: 1658880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 10.0.18362.267
+C:\WINDOWS\System32\win32u.dll:win32u.dll (74ED0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (76D80000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (74B90000), size: 1417216 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (74D50000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 10.0.18362.267
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (76C60000), size: 1175552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 10.0.18362.267
+C:\WINDOWS\System32\ole32.dll:ole32.dll (76ED0000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 10.0.18362.113
+C:\WINDOWS\System32\combase.dll:combase.dll (76800000), size: 2580480 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (6FCD0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (76AD0000), size: 765952 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\SspiCli.dll:SspiCli.dll (74820000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SspiCli.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\CRYPTBASE.dll:CRYPTBASE.dll (74810000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPTBASE.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (72D50000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (763A0000), size: 389120 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 10.0.18362.295
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (76660000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.18362.1
+C:\WINDOWS\System32\sechost.dll:sechost.dll (76DB0000), size: 483328 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 10.0.18362.267
+C:\WINDOWS\System32\advapi32.dll:advapi32.dll (76BC0000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\advapi32.dll', fileVersion: 10.0.18362.329
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (764A0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHLWAPI.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (76780000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\PSAPI.DLL', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (75F10000), size: 4493312 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (76360000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\cfgmgr32.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (76FD0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcrypt.dll', fileVersion: 10.0.18362.267
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (74EF0000), size: 5734400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\System32\shcore.dll:shcore.dll (76410000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (75680000), size: 6045696 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\windows.storage.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\System32\profapi.dll:profapi.dll (75D30000), size: 94208 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\profapi.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (76A80000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\powrprof.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\UMPDC.dll:UMPDC.dll (76400000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\UMPDC.dll'
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (75670000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\kernel.appcore.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\cryptsp.dll:cryptsp.dll (74840000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\cryptsp.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (76720000), size: 385024 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (76E30000), size: 598016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 10.0.18362.329
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (74760000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (76B90000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\IMM32.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\winmmbase.dll:winmmbase.dll (74600000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\winmmbase.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (73920000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.18362.267
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (738E0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (6E720000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.18362.207
+C:\WINDOWS\System32\NSI.dll:NSI.dll (74E30000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\NSI.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (64860000), size: 1044480 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.18362.329
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (64BD0000), size: 258048 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.18362.329
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (6FCE0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxcore.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (72B90000), size: 499712 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.18362.329
+C:\Users\Mike\Documents\MyGame\mygame_Data\Mono\EmbedRuntime\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Mike\Documents\MyGame\mygame_Data\Mono\EmbedRuntime\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (6ED80000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (6D7F0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.18362.267
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (6D7D0000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.18362.267
+C:\WINDOWS\system32\napinsp.dll:napinsp.dll (715A0000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\napinsp.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\pnrpnsp.dll:pnrpnsp.dll (71580000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\pnrpnsp.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\winrnr.dll:winrnr.dll (700A0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\winrnr.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\NLAapi.dll:NLAapi.dll (70080000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\NLAapi.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\wshbth.dll:wshbth.dll (6FD00000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wshbth.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (75D50000), size: 1060864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 10.0.18362.356
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (64680000), size: 1957888 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.18362.329
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (69970000), size: 790528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.18362.329
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_830a0263f2ee97ce\nvldumd.dll:nvldumd.dll (64570000), size: 815104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_830a0263f2ee97ce\nvldumd.dll', fileVersion: 26.21.14.3630
+C:\WINDOWS\System32\crypt32.dll:crypt32.dll (74A90000), size: 1028096 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\crypt32.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (767F0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSASN1.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (76FF0000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WINTRUST.DLL', fileVersion: 10.0.18362.145
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (76C40000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\imagehlp.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (6FFA0000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\rsaenh.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_830a0263f2ee97ce\nvwgf2um.dll:nvwgf2um.dll (60180000), size: 34660352 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_830a0263f2ee97ce\nvwgf2um.dll', fileVersion: 26.21.14.3630
+C:\WINDOWS\system32\nvspcap.dll:nvspcap.dll (64340000), size: 2232320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\nvspcap.dll', fileVersion: 3.20.0.118
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (6EB00000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (74A10000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (72240000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\wbemprox.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (721C0000), size: 430080 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (71A90000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\wbemsvc.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (71720000), size: 831488 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\fastprox.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (70060000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\amsi.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (73A70000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USERENV.dll', fileVersion: 10.0.18362.175
+C:\Program Files\Norton Security\Engine32\22.19.8.65\symamsi.dll:symamsi.dll (6FFD0000), size: 557056 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files\Norton Security\Engine32\22.19.8.65\symamsi.dll', fileVersion: 15.7.8.14
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (64E30000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MMDevApi.dll', fileVersion: 10.0.18362.329
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (6ECC0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DEVOBJ.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (64300000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wdmaud.drv', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (64BC0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AVRT.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (64670000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ksuser.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (64D10000), size: 1171456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.18362.329
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (68010000), size: 892928 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 10.0.18362.267
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (642F0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msacm32.drv', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (642D0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (642C0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\midimap.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (642B0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.356_none_2e71e654278b50d2\comctl32.dll:comctl32.dll (71B60000), size: 2158592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.356_none_2e71e654278b50d2\comctl32.dll', fileVersion: 6.10.18362.356
+C:\WINDOWS\SYSTEM32\TextInputFramework.dll:TextInputFramework.dll (663A0000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\TextInputFramework.dll', fileVersion: 10.0.18362.207
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (67F80000), size: 561152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CoreMessaging.dll', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (67D20000), size: 2482176 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CoreUIComponents.dll', fileVersion: 10.0.18362.207
+C:\WINDOWS\SYSTEM32\iertutil.dll:iertutil.dll (6AFC0000), size: 2265088 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\iertutil.dll', fileVersion: 11.0.18362.329
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (00400000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (6EB30000), size: 1634304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.18362.1
+
+========== OUTPUTING STACK TRACE ==================
+
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 010C5CCC)
+0x010C5CCC (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00D0D2F4)
+0x00D0D2F4 (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00D0D320)
+0x00D0D320 (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00D1564D)
+0x00D1564D (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00D17CAA)
+0x00D17CAA (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 0093797A)
+0x0093797A (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00941A1F)
+0x00941A1F (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01437E28)
+0x01437E28 (mygame) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 019BFD6D)
+0x019BFD6D (mygame) 
+0x75C66359 (KERNEL32) BaseThreadInitThunk
+0x770B7B74 (ntdll) RtlGetAppContainerNamedObjectPath
+0x770B7B44 (ntdll) RtlGetAppContainerNamedObjectPath
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
